@@ -1,0 +1,19 @@
+{
+  "name": "unitegallery",
+  "version": "1.0.0",
+  "description": "UniteGallery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BocianCZ/unitegallery.git"
+  },
+  "author": "https://github.com/vvvmax/unitegallery",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BocianCZ/unitegallery/issues"
+  },
+  "homepage": "https://github.com/BocianCZ/unitegallery#readme"
+}
